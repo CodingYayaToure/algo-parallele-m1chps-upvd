@@ -11,14 +11,14 @@ __pycache__/
 *.pyc
 .DS_Store
 .time_seq_ref
-*.gif
 # Binaires compiles Pi
 pi_seq
 pi_mpi_static
 pi_mpi_dynamic
-# Gros PDF (> 50 Mo) — garder seulement les PNG
+# PDF trop lourds — garder uniquement les PNG
 *.pdf
 # Binaires compiles Monte Carlo
 pi_mc_seq
 pi_mc_cs
+# GIF original trop lourd (171 Mo)
 deplacements-stochastiques-et-comparaison-sequentiel_MPI.gif
