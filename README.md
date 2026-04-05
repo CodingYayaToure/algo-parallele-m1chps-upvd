@@ -20,12 +20,35 @@ Cours : Algorithmes et Programmation Parallèle
 </p>
 
 <p align="center">
-  <em>730 pas de temps · grille 300×300 torique · 20 000 agents</em><br>
+  <em>730 pas de temps · grille 300×300 torique · 20 000 agents · comparaison Séquentiel vs MPI</em><br>
   <strong>Susceptible</strong> (bleu) · <strong>Exposé</strong> (jaune) · <strong>Infecté</strong> (rouge) · <strong>Remis</strong> (vert)
 </p>
 
-> Grille 300×300 · 20 000 agents · comparaison Séquentiel vs MPI
-> États : **Susceptible** (bleu) · **Exposé** (jaune) · **Infecté** (rouge) · **Remis** (vert)
+---
+
+## Viewer 1 — Distribution spatiale et dynamique SEIR
+
+<p align="center">
+  <img src="simulation_seir.gif" width="100%" alt="Viewer 1 — Distribution spatiale et dynamique SEIR"/>
+</p>
+
+<p align="center">
+  <em>Jour 360 · Pic infectieux au jour 335 avec 6 920 infectieux · Taux d'attaque 82.2 %</em><br>
+  Distribution spatiale (gauche) · Dynamique SEIR (droite) · Nouveaux cas / jour (bas droite)
+</p>
+
+---
+
+## Viewer 2 — Distributions multi-seeds (spaghetti plot)
+
+<p align="center">
+  <img src="Distributions spagetti.gif" width="100%" alt="Viewer 2 — Distributions spaghetti multi-seeds"/>
+</p>
+
+<p align="center">
+  <em>10 runs superposés · seed 42 (principal) vs autres seeds · Jour 700</em><br>
+  Susceptibles · Exposés · Infectieux · Rétablis — variabilité inter-runs
+</p>
 
 ---
 
