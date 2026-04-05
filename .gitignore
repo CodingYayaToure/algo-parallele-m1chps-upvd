@@ -1,0 +1,23 @@
+*.bin
+counts_*.csv
+anim_*.mp4
+*.mp4
+seir_seq
+seir_async
+seir_mpi
+seir_mpi_repro
+seir_multiseed
+__pycache__/
+*.pyc
+.DS_Store
+.time_seq_ref
+*.gif
+# Binaires compiles Pi
+pi_seq
+pi_mpi_static
+pi_mpi_dynamic
+# Gros PDF (> 50 Mo) — garder seulement les PNG
+*.pdf
+# Binaires compiles Monte Carlo
+pi_mc_seq
+pi_mc_cs

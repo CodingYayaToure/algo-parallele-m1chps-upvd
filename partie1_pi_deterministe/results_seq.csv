@@ -1,0 +1,2 @@
+n,pi_approx,erreur_abs,erreur_rel_pct,temps_s
+1000000000,3.141592653589794,4.44e-16,1.41e-14,3.865323
