@@ -256,12 +256,6 @@ make viz_async
 # Contrôles : Espace = lecture/pause | fleches = frame | haut/bas = vitesse | R = debut
 ```
 
-Capture — Viewer 1, Jour 360, version séquentielle :
-
-
-![Viewer 1 J360](viewer1_j360.png)
-
-
 
 Capture — Viewer 1, Jour 730, fin de simulation :
 
