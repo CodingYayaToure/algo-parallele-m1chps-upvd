@@ -1,6 +1,6 @@
 # Simulation SEIR Multi-Agents Stochastique avec MPI
 
-![Déplacements stochastiques et comparaison Séquentiel / MPI](deplacements-stochastiques-et-comparaison-sequentiel_MPI.gif)
+
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![C](https://img.shields.io/badge/C-C99-lightgrey)
@@ -29,6 +29,15 @@ Le projet répond à quatre questions fondamentales en programmation parallèle 
 4. Ordonnancement asynchrone et ses implications pour MPI
 
 **Machine de référence :** Intel i9-11950H · 8 cœurs physiques · 128 Go RAM
+
+---
+
+## Demo — Animation de la simulation
+
+![Simulation SEIR MPI](../seir_demo.gif)
+
+> 730 pas de temps · grille 300×300 torique · 20 000 agents · comparaison Séquentiel vs MPI
+> États : **Susceptible** (bleu) · **Exposé** (jaune) · **Infecté** (rouge) · **Remis** (vert)
 
 ---
 

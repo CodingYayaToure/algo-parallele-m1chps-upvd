@@ -11,6 +11,17 @@ Cours : Algorithmes et Programmation Parallèle
 **Auteurs :** YAYA TOURE · Mamadou G Diallo
 **Encadrant :** [Benjamin Antunes](https://scholar.google.com/citations?user=o5rgTqEAAAAJ&hl=en) — Assistant Professor, UPVD
 
+---
+
+## Demo — Simulation SEIR Multi-Agents MPI
+
+![Simulation SEIR MPI](seir_demo.gif)
+
+> Grille 300×300 · 20 000 agents · comparaison Séquentiel vs MPI
+> États : **Susceptible** (bleu) · **Exposé** (jaune) · **Infecté** (rouge) · **Remis** (vert)
+
+---
+
 | Partie | Sujet | Dossier |
 |---|---|---|
 | 1 | Calcul de Pi — méthode déterministe | [partie1_pi_deterministe](./partie1_pi_deterministe) |
