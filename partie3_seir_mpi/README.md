@@ -258,9 +258,16 @@ make viz_async
 
 Capture — Viewer 1, Jour 360, version séquentielle :
 
+
 ![Viewer 1 J360](viewer1_j360.png)
 
+
+
 Capture — Viewer 1, Jour 730, fin de simulation :
+
+<p align="center">
+  <img src="../simulation_seir.gif" width="100%" alt="Viewer 1 — Simulation SEIR jour 360"/>
+</p>
 
 ![Viewer 1 J730](viewer1_j730.png)
 
@@ -281,6 +288,10 @@ python3 seir_viewer_2.py \
 ```
 
 Capture — Viewer 2, Jour 700, 10 seeds superposées :
+
+<p align="center">
+  <img src="../Distributions spagetti.gif" width="100%" alt="Viewer 2 — Distributions spaghetti"/>
+</p>
 
 ![Viewer 2 spaghetti](viewer2_j700.png)
 
