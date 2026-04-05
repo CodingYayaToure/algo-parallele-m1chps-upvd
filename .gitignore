@@ -21,3 +21,4 @@ pi_mpi_dynamic
 # Binaires compiles Monte Carlo
 pi_mc_seq
 pi_mc_cs
+deplacements-stochastiques-et-comparaison-sequentiel_MPI.gif
