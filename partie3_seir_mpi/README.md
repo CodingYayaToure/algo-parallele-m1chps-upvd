@@ -35,7 +35,7 @@ Le projet répond à quatre questions fondamentales en programmation parallèle 
 ## Demo — Animation de la simulation
 
 <p align="center">
-  <img src="seir_demo.gif" width="900" alt="Simulation SEIR MPI — déplacements stochastiques et comparaison Séquentiel vs MPI"/>
+  <img src="../seir_demo.gif" width="900" alt="Simulation SEIR MPI — déplacements stochastiques et comparaison Séquentiel vs MPI"/>
 </p>
 
 <p align="center">
