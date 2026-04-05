@@ -16,7 +16,7 @@ Cours : Algorithmes et Programmation Parallèle
 ## Demo — Simulation SEIR Multi-Agents MPI
 
 <p align="center">
-  <img src="../seir_demo.gif" width="100%" alt="Simulation SEIR MPI — déplacements stochastiques et comparaison Séquentiel vs MPI"/>
+  <img src="seir_demo.gif" width="100%" alt="Simulation SEIR MPI — déplacements stochastiques et comparaison Séquentiel vs MPI"/>
 </p>
 
 <p align="center">
