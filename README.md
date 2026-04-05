@@ -15,7 +15,14 @@ Cours : Algorithmes et Programmation Parallèle
 
 ## Demo — Simulation SEIR Multi-Agents MPI
 
-![Simulation SEIR MPI](seir_demo.gif)
+<p align="center">
+  <img src="../seir_demo.gif" width="100%" alt="Simulation SEIR MPI — déplacements stochastiques et comparaison Séquentiel vs MPI"/>
+</p>
+
+<p align="center">
+  <em>730 pas de temps · grille 300×300 torique · 20 000 agents</em><br>
+  <strong>Susceptible</strong> (bleu) · <strong>Exposé</strong> (jaune) · <strong>Infecté</strong> (rouge) · <strong>Remis</strong> (vert)
+</p>
 
 > Grille 300×300 · 20 000 agents · comparaison Séquentiel vs MPI
 > États : **Susceptible** (bleu) · **Exposé** (jaune) · **Infecté** (rouge) · **Remis** (vert)

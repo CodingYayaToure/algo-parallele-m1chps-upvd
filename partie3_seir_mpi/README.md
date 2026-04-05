@@ -34,7 +34,14 @@ Le projet répond à quatre questions fondamentales en programmation parallèle 
 
 ## Demo — Animation de la simulation
 
-![Simulation SEIR MPI](../seir_demo.gif)
+<p align="center">
+  <img src="seir_demo.gif" width="900" alt="Simulation SEIR MPI — déplacements stochastiques et comparaison Séquentiel vs MPI"/>
+</p>
+
+<p align="center">
+  <em>Grille 300×300 · 20 000 agents · comparaison Séquentiel vs MPI</em><br>
+  <strong>Susceptible</strong> (bleu) · <strong>Exposé</strong> (jaune) · <strong>Infecté</strong> (rouge) · <strong>Remis</strong> (vert)
+</p>
 
 > 730 pas de temps · grille 300×300 torique · 20 000 agents · comparaison Séquentiel vs MPI
 > États : **Susceptible** (bleu) · **Exposé** (jaune) · **Infecté** (rouge) · **Remis** (vert)
